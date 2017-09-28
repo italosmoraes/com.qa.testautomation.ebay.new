@@ -1,8 +1,9 @@
 # com.qa.testautomation.ebay.new
 empty java selenium cucumber test setup
 
-1. Write automated tests for the given scenario using the project setup provided.
-2. provide the solution as a .jar or .zip which we can import and run the tests. They shall run as a JUnit test
+1. Clone this repository to get the maven project containing all dependencies needed.
+2. Write automated tests for the given scenario using the project setup provided.
+3. provide the solution as a .jar or .zip which we can import and run the tests. They shall run as a JUnit test
 
 Scenario 1:
 Given I am a non-registered customer
