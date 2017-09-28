@@ -5,7 +5,7 @@ empty java selenium cucumber test setup
 2. provide the solution as a .jar or .zip which we can import and run the tests. They shall run as a JUnit test
 
 Scenario 1:
-Given I am a non-registered customer 
+Given I am a non-registered customer
 And I navigate to www.ebay.co.uk
 When I search for an item
 Then I get a list of matching results 
