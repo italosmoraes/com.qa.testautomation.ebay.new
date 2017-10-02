@@ -6,7 +6,7 @@ empty java selenium cucumber test setup
 3. Provide the solution as a .zip which we can import and run the tests. They shall run as a JUnit test
 4. Provide an answer to the 5 questions below
 
-Note: Firefox driver currently only runs on top of Firefox version 47
+Note: We are providing WebDrivers for Chrome and Firefox. You can use either, just beware that Firefox driver currently only runs on top of Firefox version 47.
 
 ### Scenario 1:
 ```
