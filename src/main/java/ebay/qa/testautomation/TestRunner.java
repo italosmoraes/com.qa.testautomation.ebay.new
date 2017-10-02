@@ -9,8 +9,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 plugin = {"json:build/cucumber.json"},
 features = {"classpath:features"},
-glue= {"ebay.qa.testautomation.test"},
-tags = {"@001"}
+glue= {"ebay.qa.testautomation"},
+tags = {"@Scenario001"}
 )
 
 public class TestRunner {

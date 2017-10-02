@@ -1,6 +1,7 @@
 Feature: Search Results. Where one can sort, filter and see details of resulting products.
 
 @Scenario001
+Scenario: Search Results. Where one can sort, filter and see details of resulting products. 
 Given I am a non-registered customer 
 And I navigate to www.ebay.co.uk
 When I search for an item
