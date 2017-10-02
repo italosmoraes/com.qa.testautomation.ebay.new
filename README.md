@@ -1,8 +1,8 @@
 # com.qa.testautomation.ebay.new
-empty java selenium cucumber test setup
+This is an empty Java+Selenium+Cucumber maven project
 
 1. Download this repository to get the maven project containing all dependencies needed.
-2. Write automated tests for the given scenario using the project setup provided.
+2. Write automated tests for the given scenario using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
 3. Provide the solution as a .zip which we can import and run the tests. They shall run as a JUnit test
 4. Provide an answer to the 5 questions below
 
