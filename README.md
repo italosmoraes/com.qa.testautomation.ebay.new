@@ -1,10 +1,19 @@
 # com.qa.testautomation.ebay.new
 This is an empty Java+Selenium+Cucumber maven project
 
-1. Download this repository to get the maven project containing all dependencies needed.
-2. Write automated tests for the given scenario using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
-3. Provide the solution as a .zip which we can import and run the tests. They shall run as a JUnit test
-4. Provide an answer to the 5 questions below
+1. You should have Java JDK 8 installed
+2. Extract the given maven project from the provided .zip file
+3. Load the maven project in your preferred IDE
+4. From the shell/command-line 
+    1. Navigate to the project folder
+    2. Run “mvn test”
+    3. You should get a build success result
+5. Write automated tests for the given scenario using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
+6. To run your tests, from the shell/command-line use command:
+    1. mvn -Dtest=TestRunner -Dcucumber.options="--tags @Scenario001" test
+    2. Your tests should begin to run
+    3. Results are shown and the build is successful
+7. Provide the solution as a .zip file that can be extracted and ran the same way you have done locally.
 
 Note: We are providing WebDrivers for Chrome and Firefox. You can use either, just beware that Firefox driver currently only runs on top of Firefox version 47.
 
