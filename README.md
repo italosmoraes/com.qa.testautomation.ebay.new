@@ -18,11 +18,3 @@ And the resulting items cards have: postage price, No of bids, price or show Buy
 And I can sort the item by Best Match, Lowest Price + P&P, Highest Price, Newly listed, etc
 And I can filter the results by All Items, Auction, By it now
 ```
-### Questions
-```
-1. What did you think of the provided acceptance criteria?
-2. If this were a real story from a real life Product Owner - what questions would you ask?
-3. Why did you choose to structure your code in the way you did?
-4. If you had more time what improvements would you make to your code?
-5. What is your usual approach to testing on a project?
-```
