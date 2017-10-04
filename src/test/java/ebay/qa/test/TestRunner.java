@@ -1,4 +1,4 @@
-package ebay.qa.testautomation;
+package ebay.qa.test;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
