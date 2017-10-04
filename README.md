@@ -3,12 +3,12 @@ This is an empty Java+Selenium+Cucumber maven project
 
 1. You should have Java JDK 8 installed
 2. Extract the given maven project from the provided .zip file
-3. Load the maven project in your preferred IDE
+3. Import the maven project to your preferred IDE
 4. From the shell/command-line 
-    1. Navigate to the project folder
+    1. Navigate to your project folder
     2. Run “mvn test”
     3. You should get a build success result
-5. Write automated tests for the given scenario using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
+5. Write automated tests for the given scenarios using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
 6. To run your tests, from the shell/command-line use command:
     1. mvn -Dtest=TestRunner -Dcucumber.options="--tags @Scenario001" test
     2. Your tests should begin to run
