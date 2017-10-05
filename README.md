@@ -30,8 +30,8 @@ Then I can sort the results by Lowest Price
 And the results are listed in the page in the correct order
 Then I can sort the results by Highest Price
 And the results are listed in the page in the correct order
-Then I can filter the results by ‘Buy it now’
-And all the results shown in the page have the ’Buy it now’ tag 
+Then I can filter the results by 'Buy it now'
+And all the results shown in the page have the 'Buy it now' tag 
 
 Scenario 2:
 Given I am a non-registered customer 
