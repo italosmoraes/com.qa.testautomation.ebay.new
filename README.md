@@ -6,11 +6,11 @@ This is an empty Java+Selenium+Cucumber maven project
 3. From the shell/command-line 
     1. Navigate to the unziped folder
     2. Run “mvn test”
-    3. You should get a build success result, showing undefined 
+    3. You should get a build success result, showing undefined test steps
 4. Import the maven project in your preferred IDE. Make sure the project is loaded correct and there are no import errors.
 5. Write automated tests for the given scenario using the project setup provided. (Include any Classes and packages/folders to suit your designed solution)
 6. To run your tests, from the shell/command-line use command:
-    1. mvn -Dtest=TestRunner -Dcucumber.options="--tags @Scenario001" test (or run it as JUnit in your IDE)
+    1. mvn -Dtest=TestRunner -Dcucumber.options="--tags @Scenario001" test - note that ‘Scenario001’ is the tag name of the test scenarios provided in the .feature file
     2. Your tests should begin to run
     3. Results are shown and the build is successful
 7. Provide the solution as a .zip file that can be extracted and ran the same way you have done locally.
@@ -18,6 +18,7 @@ This is an empty Java+Selenium+Cucumber maven project
 Notes: 
 - We are providing WebDrivers for Chrome and Firefox. You can use either, just beware that Firefox driver currently only runs on top of Firefox version 47.
 - The WebDrivers are found in the 'resources' folder so you can reference from your project.
+- For more information on Java Cucumber: https://cucumber.io/docs/reference/jvm
 
 ```
 Scenario 1:
